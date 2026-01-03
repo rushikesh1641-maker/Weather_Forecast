@@ -126,7 +126,7 @@ The **Weather_Forecast Dashboard** aims to:
 
 **Alt Text:**  
 Live Power BI Weather_Forecast Dashboard showing real-time KPIs, temperature trends, weather conditions, and forecast analytics.
-
+[https://github.com/rushikesh1641-maker/Weather_Forecast/blob/main/Weather_pr.png]
 ---
 
 ## 7. Interview-Ready Summary  
